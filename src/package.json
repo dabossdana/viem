@@ -134,7 +134,7 @@
     }
   },
   "dependencies": {
-    "@adraffy/ens-normalize": "1.10.0",
+    "@adraffy/ens-normalize": "1.11.0",
     "@noble/curves": "1.4.0",
     "@noble/hashes": "1.4.0",
     "@scure/bip32": "1.4.0",
